@@ -1,1 +1,2 @@
-
+#!/bin/bash
+ar rcs libmylib.a objfile1.o
