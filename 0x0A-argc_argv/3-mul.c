@@ -1,5 +1,5 @@
-#include "main.h"
 #include <stdio.h>
+#include <stdlib.h>
 /**
  * main - mul 2 argv
  * @argc:int
